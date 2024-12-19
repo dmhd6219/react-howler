@@ -1,7 +1,7 @@
 let Howler
 
 if (typeof window !== 'undefined') {
-  Howler = require('howler')
+  Howler = require('dmhd6219-howler')
 }
 
 module.exports = Howler
